@@ -1,0 +1,6 @@
+C:\Users\TrangDM2\Documents\Visual Studio Projects\QualityTest\QualityTest\bin\Debug\QualityTest.exe.config
+C:\Users\TrangDM2\Documents\Visual Studio Projects\QualityTest\QualityTest\bin\Debug\QualityTest.exe
+C:\Users\TrangDM2\Documents\Visual Studio Projects\QualityTest\QualityTest\bin\Debug\QualityTest.pdb
+C:\Users\TrangDM2\Documents\Visual Studio Projects\QualityTest\QualityTest\obj\Debug\QualityTest.csprojAssemblyReference.cache
+C:\Users\TrangDM2\Documents\Visual Studio Projects\QualityTest\QualityTest\obj\Debug\QualityTest.exe
+C:\Users\TrangDM2\Documents\Visual Studio Projects\QualityTest\QualityTest\obj\Debug\QualityTest.pdb
